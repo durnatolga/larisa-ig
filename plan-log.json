@@ -1,5 +1,23 @@
 [
- {"date":"2026-11-14T17:00:00+03:00","type":"STORY","theme":"Pazartesi sürprizi teaser","image":"2026-11/story.jpg","metricoolId":427881221},
- {"date":"2026-11-14T18:00:00+03:00","type":"POST","theme":"Kirpik bakımı 5 altın kural","image":"2026-11/ipucu.jpg","metricoolId":427881609},
- {"date":"2026-11-16T10:00:00+03:00","type":"POST","theme":"Dijital sadakat kartı duyurusu","image":"2026-11/sadakat.jpg","metricoolId":427881694}
+ {
+  "date": "2026-11-14T17:00:00+03:00",
+  "type": "STORY",
+  "theme": "Pazartesi sürprizi teaser",
+  "image": "2026-11/story-v2.jpg",
+  "metricoolId": 427881221
+ },
+ {
+  "date": "2026-11-14T18:00:00+03:00",
+  "type": "POST",
+  "theme": "Kirpik bakımı 5 altın kural",
+  "image": "2026-11/ipucu-v2.jpg",
+  "metricoolId": 427881609
+ },
+ {
+  "date": "2026-11-16T10:00:00+03:00",
+  "type": "POST",
+  "theme": "Dijital sadakat kartı duyurusu",
+  "image": "2026-11/sadakat-v2.jpg",
+  "metricoolId": 427881694
+ }
 ]

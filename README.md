@@ -6,3 +6,8 @@
 - `plan-log.json` : Planlanan tüm paylaşımlar (tekrarı önlemek için).
 
 Marka: turkuaz (#0e5f5c / #1f8f8a) + altın (#d4af6a / #e9cf96), fontlar Lora (başlık) + Poppins (metin).
+
+İletişim (her görselde ve açıklamada kullanılır):
+- Tel: 0545 151 71 79
+- Adres: Yalı Mah. 6523 Sk. No:32/B K:2 D:201 (Park Yaşam Ofis) Karşıyaka / İzmir
+- Web: larisabeautyclub.com
