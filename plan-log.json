@@ -22,5 +22,149 @@
   "image": "2026-11/sadakat-v2.jpg",
   "metricoolId": 427896445,
   "metricoolUuid": "-3455598741699804779"
+ },
+ {
+  "date": "2026-11-15T18:00:00+03:00",
+  "type": "STORY",
+  "theme": "Yeni hafta randevu hatırlatması",
+  "image": "2026-11/h-1115-story.jpg",
+  "metricoolId": 427986873,
+  "metricoolUuid": "-4962930389001157482"
+ },
+ {
+  "date": "2026-11-16T18:00:00+03:00",
+  "type": "STORY",
+  "theme": "Anket: Doğal mı dramatik mi?",
+  "image": "2026-11/h-1116-story.jpg",
+  "metricoolId": 427986904,
+  "metricoolUuid": "-7323540962658336172"
+ },
+ {
+  "date": "2026-11-17T10:00:00+03:00",
+  "type": "POST",
+  "theme": "Hangi kirpik stili sana göre?",
+  "image": "2026-11/h-1117-post.jpg",
+  "metricoolId": 427986944,
+  "metricoolUuid": "4698080139533176726"
+ },
+ {
+  "date": "2026-11-17T10:05:00+03:00",
+  "type": "STORY",
+  "theme": "Hangi kirpik stili sana göre? (story)",
+  "image": "2026-11/h-1117-copy.jpg",
+  "metricoolId": 427986962,
+  "metricoolUuid": "5295438103273357959"
+ },
+ {
+  "date": "2026-11-17T18:00:00+03:00",
+  "type": "STORY",
+  "theme": "Canlı kirpik deneme tanıtımı",
+  "image": "2026-11/h-1117-story.jpg",
+  "metricoolId": 427987017,
+  "metricoolUuid": "5754727868424735745"
+ },
+ {
+  "date": "2026-11-18T10:00:00+03:00",
+  "type": "POST",
+  "theme": "Tırnak bakımı 5 ipucu",
+  "image": "2026-11/h-1118-post.jpg",
+  "metricoolId": 427987056,
+  "metricoolUuid": "8890873703166198253"
+ },
+ {
+  "date": "2026-11-18T10:05:00+03:00",
+  "type": "STORY",
+  "theme": "Tırnak bakımı 5 ipucu (story)",
+  "image": "2026-11/h-1118-copy.jpg",
+  "metricoolId": 427987072,
+  "metricoolUuid": "-3023708725427877148"
+ },
+ {
+  "date": "2026-11-18T18:00:00+03:00",
+  "type": "STORY",
+  "theme": "Randevu öncesi hazırlık",
+  "image": "2026-11/h-1118-story.jpg",
+  "metricoolId": 427987087,
+  "metricoolUuid": "2132867213197265616"
+ },
+ {
+  "date": "2026-11-19T10:00:00+03:00",
+  "type": "POST",
+  "theme": "Kışın cilt bakımı 4 ipucu",
+  "image": "2026-11/h-1119-post.jpg",
+  "metricoolId": 427987162,
+  "metricoolUuid": "2583657775756953082"
+ },
+ {
+  "date": "2026-11-19T10:05:00+03:00",
+  "type": "STORY",
+  "theme": "Kışın cilt bakımı 4 ipucu (story)",
+  "image": "2026-11/h-1119-copy.jpg",
+  "metricoolId": 427987181,
+  "metricoolUuid": "6622765352518502402"
+ },
+ {
+  "date": "2026-11-19T18:00:00+03:00",
+  "type": "STORY",
+  "theme": "Sadakat kartı hatırlatması",
+  "image": "2026-11/h-1119-story.jpg",
+  "metricoolId": 427987208,
+  "metricoolUuid": "-4143300562862978350"
+ },
+ {
+  "date": "2026-11-20T10:00:00+03:00",
+  "type": "POST",
+  "theme": "Kirpik randevusu öncesi bilmen gerekenler",
+  "image": "2026-11/h-1120-post.jpg",
+  "metricoolId": 427987254,
+  "metricoolUuid": "1862206958756840264"
+ },
+ {
+  "date": "2026-11-20T10:05:00+03:00",
+  "type": "STORY",
+  "theme": "Kirpik randevusu öncesi bilmen gerekenler (story)",
+  "image": "2026-11/h-1120-copy.jpg",
+  "metricoolId": 427987325,
+  "metricoolUuid": "1196518676608929589"
+ },
+ {
+  "date": "2026-11-20T18:00:00+03:00",
+  "type": "STORY",
+  "theme": "Hafta sonu randevu çağrısı",
+  "image": "2026-11/h-1120-story.jpg",
+  "metricoolId": 427987353,
+  "metricoolUuid": "-7646363883576146169"
+ },
+ {
+  "date": "2026-11-21T10:00:00+03:00",
+  "type": "POST",
+  "theme": "İpek kirpik sık sorulan sorular",
+  "image": "2026-11/h-1121-post.jpg",
+  "metricoolId": 427987399,
+  "metricoolUuid": "-3543509976293292513"
+ },
+ {
+  "date": "2026-11-21T10:05:00+03:00",
+  "type": "STORY",
+  "theme": "İpek kirpik sık sorulan sorular (story)",
+  "image": "2026-11/h-1121-copy.jpg",
+  "metricoolId": 427987424,
+  "metricoolUuid": "-8635664982998759367"
+ },
+ {
+  "date": "2026-11-14T15:50:00+03:00",
+  "type": "STORY",
+  "theme": "Kirpik ipuçları story kopyası",
+  "image": "2026-11/ipucu-story.jpg",
+  "metricoolId": 427968344,
+  "metricoolUuid": "4999922995987500086"
+ },
+ {
+  "date": "2026-11-16T10:05:00+03:00",
+  "type": "STORY",
+  "theme": "Sadakat kartı story kopyası",
+  "image": "2026-11/sadakat-story.jpg",
+  "metricoolId": 427968369,
+  "metricoolUuid": "-598632224835678831"
  }
 ]
