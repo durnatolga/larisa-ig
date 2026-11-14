@@ -4,20 +4,23 @@
   "type": "STORY",
   "theme": "Pazartesi sürprizi teaser",
   "image": "2026-11/story-v2.jpg",
-  "metricoolId": 427881221
+  "metricoolId": 427896274,
+  "metricoolUuid": "8768103515068059325"
  },
  {
   "date": "2026-11-14T18:00:00+03:00",
   "type": "POST",
   "theme": "Kirpik bakımı 5 altın kural",
   "image": "2026-11/ipucu-v2.jpg",
-  "metricoolId": 427881609
+  "metricoolId": 427896372,
+  "metricoolUuid": "-892940737775777215"
  },
  {
   "date": "2026-11-16T10:00:00+03:00",
   "type": "POST",
   "theme": "Dijital sadakat kartı duyurusu",
   "image": "2026-11/sadakat-v2.jpg",
-  "metricoolId": 427881694
+  "metricoolId": 427896445,
+  "metricoolUuid": "-3455598741699804779"
  }
 ]
