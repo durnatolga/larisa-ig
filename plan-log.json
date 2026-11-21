@@ -136,19 +136,20 @@
   "metricoolUuid": "-7646363883576146169"
  },
  {
-  "date": "2026-11-21T10:00:00+03:00",
+  "date": "2026-11-21T13:00:00+03:00",
   "type": "POST",
   "theme": "İpek kirpik sık sorulan sorular",
   "image": "2026-11/h-1121-post.jpg",
-  "metricoolId": 427987399,
-  "metricoolUuid": "-3543509976293292513"
+  "metricoolId": 436488813,
+  "metricoolUuid": "-3543509976293292513",
+  "note": "10:00 Metricool hesap limiti hatasıyla yayınlanamadı, 13:00a alındı"
  },
  {
-  "date": "2026-11-21T10:05:00+03:00",
+  "date": "2026-11-21T13:05:00+03:00",
   "type": "STORY",
   "theme": "İpek kirpik sık sorulan sorular (story)",
   "image": "2026-11/h-1121-copy.jpg",
-  "metricoolId": 427987424,
+  "metricoolId": 436488879,
   "metricoolUuid": "-8635664982998759367"
  },
  {
@@ -208,5 +209,33 @@
   "image": "2026-11/h-1123-story.jpg",
   "metricoolId": 435263322,
   "metricoolUuid": "7258206193779164704"
+ },
+ {
+  "date": "2026-11-24T10:00:00+03:00",
+  "type": "POST",
+  "theme": "Kışın saç bakımı 5 ipucu",
+  "image": "2026-11/h-1124-post.jpg",
+  "metricoolId": 436489942,
+  "metricoolUuid": "-5989543927855562382",
+  "ai": false
+ },
+ {
+  "date": "2026-11-24T10:05:00+03:00",
+  "type": "STORY",
+  "theme": "Kışın saç bakımı 5 ipucu (story)",
+  "image": "2026-11/h-1124-copy.jpg",
+  "metricoolId": 436489952,
+  "metricoolUuid": "8822189206589554796",
+  "parent": "m436489942",
+  "ai": false
+ },
+ {
+  "date": "2026-11-24T18:00:00+03:00",
+  "type": "STORY",
+  "theme": "Arkadaşını getir: 2 arkadaş = 1 uygulama hediye",
+  "image": "2026-11/h-1124-story.jpg",
+  "metricoolId": 436489958,
+  "metricoolUuid": "2004422926630799994",
+  "ai": false
  }
 ]
