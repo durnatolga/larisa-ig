@@ -237,5 +237,34 @@
   "metricoolId": 436489958,
   "metricoolUuid": "2004422926630799994",
   "ai": false
+ },
+ {
+  "date": "2026-11-25T10:00:00+03:00",
+  "type": "POST",
+  "theme": "Kalıcı ojeni uzun süre korumanın 5 yolu",
+  "image": "2026-11/h-1125-post.jpg",
+  "metricoolId": 437374036,
+  "metricoolUuid": "-1708219630862448340",
+  "ai": false,
+  "note": "Higgsfield görseli üretildi ama CDN (cloudfront) oturum ağ izninde engelli; düz HTML"
+ },
+ {
+  "date": "2026-11-25T10:05:00+03:00",
+  "type": "STORY",
+  "theme": "Kalıcı ojeni uzun süre korumanın 5 yolu (story)",
+  "image": "2026-11/h-1125-copy.jpg",
+  "metricoolId": 437374064,
+  "metricoolUuid": "-7996844601067091483",
+  "parent": "m437374036",
+  "ai": false
+ },
+ {
+  "date": "2026-11-25T18:00:00+03:00",
+  "type": "STORY",
+  "theme": "Canlı kirpik deneme: Hangi kirpik sana yakışır?",
+  "image": "2026-11/h-1125-story.jpg",
+  "metricoolId": 437374097,
+  "metricoolUuid": "7478461847230762982",
+  "ai": false
  }
 ]
