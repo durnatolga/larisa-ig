@@ -1,0 +1,4 @@
+{
+  "aciklama": "sizvebiz.com/reklam paneli bu dosyayi her 5 dakikada bir okur. Her kayit bir Instagram paylasimi. kaynak_id benzersiz ve kalici olmali; degisiklik icin ayni kaynak_id ile alanlari guncelle, iptal icin \"iptal\": true ekle. medya/kapak: depo ici yol (2026-11/x.jpg) veya https adresi. tarih: ISO 8601 +03:00. tur: POST | STORY | REEL. ust: story/reels kopyasinin ana kaydinin kaynak_id'si.",
+  "paylasimlar": []
+}
