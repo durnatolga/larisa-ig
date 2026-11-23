@@ -142,7 +142,8 @@
   "image": "2026-11/h-1121-post.jpg",
   "metricoolId": 436488813,
   "metricoolUuid": "-3543509976293292513",
-  "note": "10:00 Metricool hesap limiti hatasıyla yayınlanamadı, 13:00a alındı"
+  "note": "10:00 Metricool hesap limiti hatasıyla yayınlanamadı, 13:00a alındı",
+  "status": "ERROR: Metricool account limit (yayınlanmadı)"
  },
  {
   "date": "2026-11-21T13:05:00+03:00",
@@ -150,7 +151,8 @@
   "theme": "İpek kirpik sık sorulan sorular (story)",
   "image": "2026-11/h-1121-copy.jpg",
   "metricoolId": 436488879,
-  "metricoolUuid": "-8635664982998759367"
+  "metricoolUuid": "-8635664982998759367",
+  "status": "ERROR: Metricool account limit (yayınlanmadı)"
  },
  {
   "date": "2026-11-14T15:50:00+03:00",
@@ -183,7 +185,8 @@
   "theme": "Anket: Kışın tırnakta bordo mu nude mu?",
   "image": "2026-11/h-1122-story.jpg",
   "metricoolId": "433913598",
-  "metricoolUuid": "481528459532453086"
+  "metricoolUuid": "481528459532453086",
+  "status": "ERROR: Metricool account limit (yayınlanmadı)"
  },
  {
   "date": "2026-11-23T10:00:00+03:00",
@@ -191,7 +194,8 @@
   "theme": "İpek kirpik mi, lash lift mi? (fark)",
   "image": "2026-11/h-1123-post.jpg",
   "metricoolId": 435263286,
-  "metricoolUuid": "7840512189924395102"
+  "metricoolUuid": "7840512189924395102",
+  "status": "ERROR: Metricool account limit (yayınlanmadı)"
  },
  {
   "date": "2026-11-23T10:05:00+03:00",
@@ -200,7 +204,8 @@
   "image": "2026-11/h-1123-copy.jpg",
   "metricoolId": 435263298,
   "metricoolUuid": "-5643110369451225486",
-  "parent": "m435263286"
+  "parent": "m435263286",
+  "status": "ERROR: Metricool account limit (yayınlanmadı)"
  },
  {
   "date": "2026-11-23T18:00:00+03:00",
@@ -265,6 +270,35 @@
   "image": "2026-11/h-1125-story.jpg",
   "metricoolId": 437374097,
   "metricoolUuid": "7478461847230762982",
+  "ai": false
+ },
+ {
+  "date": "2026-11-26T10:00:00+03:00",
+  "type": "POST",
+  "theme": "Cilt bakımında mit mi, gerçek mi?",
+  "image": "2026-11/h-1126-post.jpg",
+  "metricoolId": 438450885,
+  "metricoolUuid": "-2381646899981367886",
+  "ai": false,
+  "note": "Higgsfield CDN (cloudfront) oturum ağ izninde engelli; düz HTML"
+ },
+ {
+  "date": "2026-11-26T10:05:00+03:00",
+  "type": "STORY",
+  "theme": "Cilt bakımında mit mi, gerçek mi? (story)",
+  "image": "2026-11/h-1126-copy.jpg",
+  "metricoolId": 438450905,
+  "metricoolUuid": "-56320632757268796",
+  "parent": "m438450885",
+  "ai": false
+ },
+ {
+  "date": "2026-11-26T18:00:00+03:00",
+  "type": "STORY",
+  "theme": "Anket: Cilt bakım rutinin sabah mı akşam mı?",
+  "image": "2026-11/h-1126-story.jpg",
+  "metricoolId": 438450932,
+  "metricoolUuid": "-2454319380073855879",
   "ai": false
  }
 ]
