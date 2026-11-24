@@ -361,6 +361,18 @@
             "ust_id": null
         },
         {
+            "id": "85",
+            "kaynak_id": "k-20261126-1000-sac-parlaklik-reel",
+            "tur": "REEL",
+            "tarih": "2026-11-26 10:00:00",
+            "durum": "onay",
+            "baslik": "Reels: Saç botoksu sonrası parlaklık (video 12)",
+            "permalink": null,
+            "hata": null,
+            "uyari": null,
+            "ust_id": null
+        },
+        {
             "id": "42",
             "kaynak_id": "k-20261126-1000-cilt-mitleri",
             "tur": "POST",
@@ -371,6 +383,18 @@
             "hata": null,
             "uyari": null,
             "ust_id": null
+        },
+        {
+            "id": "86",
+            "kaynak_id": "k-20261126-1005-sac-parlaklik-reel-story",
+            "tur": "STORY",
+            "tarih": "2026-11-26 10:05:00",
+            "durum": "onay",
+            "baslik": "Story: Saç parlaklık Reels kopyası",
+            "permalink": null,
+            "hata": null,
+            "uyari": null,
+            "ust_id": "85"
         },
         {
             "id": "43",
@@ -536,10 +560,10 @@
             "konu": "4 – Uygulama yakın çekim",
             "notu": null,
             "yukleyen": null,
-            "durum": "github",
+            "durum": "kullanildi",
             "acil": "1",
             "grup": null,
-            "kaynak_id": null,
+            "kaynak_id": "k-20261127-1930-sac-botoksu-reel",
             "tarih": "2026-11-24 22:55:19"
         },
         {
@@ -548,10 +572,10 @@
             "konu": "Saç işlemi",
             "notu": null,
             "yukleyen": null,
-            "durum": "github",
+            "durum": "kullanildi",
             "acil": "1",
             "grup": null,
-            "kaynak_id": null,
+            "kaynak_id": "k-20261126-1000-sac-parlaklik-reel",
             "tarih": "2026-11-24 22:56:12"
         }
     ],
