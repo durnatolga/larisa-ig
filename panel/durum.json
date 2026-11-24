@@ -325,11 +325,23 @@
             "ust_id": null
         },
         {
+            "id": "45",
+            "kaynak_id": "k-20261124-1800-soru-kirpik-derdi",
+            "tur": "STORY",
+            "tarih": "2026-11-24 18:00:00",
+            "durum": "bekliyor",
+            "baslik": "❓ SORU KUTUSU EKLE: Kirpiğinle ilgili en büyük derdin ne? (Larisa Hanım cevaplar)",
+            "permalink": null,
+            "hata": null,
+            "uyari": null,
+            "ust_id": null
+        },
+        {
             "id": "39",
             "kaynak_id": "k-20261125-1000-kalici-oje",
             "tur": "POST",
             "tarih": "2026-11-25 10:00:00",
-            "durum": "bekliyor",
+            "durum": "iptal",
             "baslik": "Kalıcı ojeni uzun süre korumanın 5 yolu",
             "permalink": null,
             "hata": null,
@@ -341,7 +353,7 @@
             "kaynak_id": "k-20261125-1005-kalici-oje-story",
             "tur": "STORY",
             "tarih": "2026-11-25 10:05:00",
-            "durum": "bekliyor",
+            "durum": "iptal",
             "baslik": "Kalıcı ojeni uzun süre korumanın 5 yolu (story)",
             "permalink": null,
             "hata": null,
@@ -365,7 +377,7 @@
             "kaynak_id": "k-20261126-1000-cilt-mitleri",
             "tur": "POST",
             "tarih": "2026-11-26 10:00:00",
-            "durum": "bekliyor",
+            "durum": "iptal",
             "baslik": "Cilt bakımında mit mi, gerçek mi?",
             "permalink": null,
             "hata": null,
@@ -377,12 +389,24 @@
             "kaynak_id": "k-20261126-1005-cilt-mitleri-story",
             "tur": "STORY",
             "tarih": "2026-11-26 10:05:00",
-            "durum": "bekliyor",
+            "durum": "iptal",
             "baslik": "Cilt bakımında mit mi, gerçek mi? (story)",
             "permalink": null,
             "hata": null,
             "uyari": null,
             "ust_id": "42"
+        },
+        {
+            "id": "46",
+            "kaynak_id": "k-20261126-1300-etiketle",
+            "tur": "STORY",
+            "tarih": "2026-11-26 13:00:00",
+            "durum": "bekliyor",
+            "baslik": "Bizi hikâyende etiketle hatırlatması",
+            "permalink": null,
+            "hata": null,
+            "uyari": null,
+            "ust_id": null
         },
         {
             "id": "44",
@@ -395,6 +419,42 @@
             "hata": null,
             "uyari": null,
             "ust_id": null
+        },
+        {
+            "id": "49",
+            "kaynak_id": "k-20261127-1800-anket-sac-derdi",
+            "tur": "STORY",
+            "tarih": "2026-11-27 18:00:00",
+            "durum": "bekliyor",
+            "baslik": "📊 ANKET EKLE: Saç bakımında en büyük derdin hangisi? — Kabarma / Kırılma",
+            "permalink": null,
+            "hata": null,
+            "uyari": null,
+            "ust_id": null
+        },
+        {
+            "id": "47",
+            "kaynak_id": "k-20261127-1930-sac-botoksu-reel",
+            "tur": "REEL",
+            "tarih": "2026-11-27 19:30:00",
+            "durum": "bekliyor",
+            "baslik": "Saç botoksu önce/sonra (salon videosu, sonuçla açılan kurgu)",
+            "permalink": null,
+            "hata": null,
+            "uyari": null,
+            "ust_id": null
+        },
+        {
+            "id": "48",
+            "kaynak_id": "k-20261127-1935-sac-botoksu-reel-story",
+            "tur": "STORY",
+            "tarih": "2026-11-27 19:35:00",
+            "durum": "bekliyor",
+            "baslik": "Saç botoksu önce/sonra (reels story)",
+            "permalink": null,
+            "hata": null,
+            "uyari": null,
+            "ust_id": "47"
         }
     ],
     "notlar": [
@@ -416,8 +476,8 @@
             "konu": "1 – Göz açılışı",
             "notu": null,
             "yukleyen": null,
-            "durum": "github",
-            "kaynak_id": null,
+            "durum": "kullanildi",
+            "kaynak_id": "k-20261127-1930-sac-botoksu-reel",
             "tarih": "2026-11-23 23:02:49"
         },
         {
@@ -426,8 +486,8 @@
             "konu": "1 – Göz açılışı",
             "notu": null,
             "yukleyen": null,
-            "durum": "github",
-            "kaynak_id": null,
+            "durum": "kullanildi",
+            "kaynak_id": "k-20261127-1930-sac-botoksu-reel",
             "tarih": "2026-11-24 10:46:01"
         }
     ],
