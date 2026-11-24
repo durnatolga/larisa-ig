@@ -477,6 +477,7 @@
             "notu": null,
             "yukleyen": null,
             "durum": "kullanildi",
+            "acil": "0",
             "kaynak_id": "k-20261127-1930-sac-botoksu-reel",
             "tarih": "2026-11-23 23:02:49"
         },
@@ -487,6 +488,7 @@
             "notu": null,
             "yukleyen": null,
             "durum": "kullanildi",
+            "acil": "0",
             "kaynak_id": "k-20261127-1930-sac-botoksu-reel",
             "tarih": "2026-11-24 10:46:01"
         }
