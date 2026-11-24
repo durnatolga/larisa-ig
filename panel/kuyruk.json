@@ -115,6 +115,29 @@
       "baslik": "Story: Fox Eyes Reels kopyası",
       "ust": "k-20261125-1000-fox-eyes-kirpik-reel",
       "onay_bekle": true
+    },
+    {
+      "kaynak_id": "k-20261126-1000-sac-parlaklik-reel",
+      "tur": "REEL",
+      "tarih": "2026-11-26T10:00:00+03:00",
+      "medya": "2026-11/r-1126-sac-parlaklik.mp4",
+      "kapak": "2026-11/r-1126-sac-parlaklik-kapak.jpg",
+      "baslik": "Reels: Saç botoksu sonrası parlaklık (video 12)",
+      "metin": "Bu parlaklıkta filtre yok, sadece doğru bakım ✨\n\nSaç botoksu sonrası saçın ışığı nasıl yansıttığına bir bakın.\nRus uzmanlarımızla saçın yapısına uygun bakım, ipeksi ve yumuşak bir görünüm.\n\n📞 Randevu: 0545 151 71 79\n🌐 larisabeautyclub.com\n📍 Yalı Mah. 6523 Sk. No:32/B K:2 D:201 (Park Yaşam Ofis) Karşıyaka / İzmir\n\n#mavişehir #karşıyaka #izmir #izmirgüzellik #larisabeauty #saçbotoksu #saçbakımı #izmirkuaför #parlaksaçlar #sarısaç",
+      "onay_bekle": true,
+      "anket": [
+        "Düz & parlak ✨",
+        "Dalgalı & hacimli 🌊"
+      ]
+    },
+    {
+      "kaynak_id": "k-20261126-1005-sac-parlaklik-reel-story",
+      "tur": "STORY",
+      "tarih": "2026-11-26T10:05:00+03:00",
+      "medya": "2026-11/s-1126-sac-parlaklik-reel-story.jpg",
+      "baslik": "Story: Saç parlaklık Reels kopyası",
+      "ust": "k-20261126-1000-sac-parlaklik-reel",
+      "onay_bekle": true
     }
   ],
   "not_yanitlari": [],
@@ -148,6 +171,14 @@
     {
       "video_id": 9,
       "kaynak_id": "k-20261125-1000-fox-eyes-kirpik-reel"
+    },
+    {
+      "video_id": 12,
+      "kaynak_id": "k-20261126-1000-sac-parlaklik-reel"
+    },
+    {
+      "video_id": 11,
+      "kaynak_id": "k-20261127-1930-sac-botoksu-reel"
     }
   ]
 }

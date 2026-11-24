@@ -392,5 +392,26 @@
   "ai": false,
   "image": "2026-11/s-1125-fox-eyes-reel-story.jpg",
   "parent": "k-20261125-1000-fox-eyes-kirpik-reel"
+ },
+ {
+  "date": "2026-11-26T10:00:00+03:00",
+  "type": "REEL",
+  "theme": "Saç botoksu sonrası parlaklık (ham video, kesim + yazı)",
+  "kaynak_id": "k-20261126-1000-sac-parlaklik-reel",
+  "panel": "sizvebiz (kuyruk.json)",
+  "ai": false,
+  "media": "2026-11/r-1126-sac-parlaklik.mp4",
+  "source_video": "panel video #12; müzik: yerelde üretilmiş özgün piyano (Higgsfield sonucu indirilemedi). Video #11 = video #1/#2 ile aynı içerik, 27 Kasım saç botoksu Reels'ine bağlandı",
+  "onay_bekle": true
+ },
+ {
+  "date": "2026-11-26T10:05:00+03:00",
+  "type": "STORY",
+  "theme": "Saç parlaklık Reels story kopyası",
+  "kaynak_id": "k-20261126-1005-sac-parlaklik-reel-story",
+  "panel": "sizvebiz (kuyruk.json)",
+  "ai": false,
+  "image": "2026-11/s-1126-sac-parlaklik-reel-story.jpg",
+  "parent": "k-20261126-1000-sac-parlaklik-reel"
  }
 ]
