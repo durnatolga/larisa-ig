@@ -335,30 +335,6 @@
             "hata": null,
             "uyari": null,
             "ust_id": "42"
-        },
-        {
-            "id": "59",
-            "kaynak_id": "k-20261126-1800-anket-cilt",
-            "tur": "STORY",
-            "tarih": "2026-11-26 18:00:00",
-            "durum": "bekliyor",
-            "baslik": "Anket: Cilt bakım rutinin sabah mı akşam mı?",
-            "permalink": null,
-            "hata": null,
-            "uyari": null,
-            "ust_id": null
-        },
-        {
-            "id": "56",
-            "kaynak_id": "k-20261127-1800-anket-sac-derdi",
-            "tur": "STORY",
-            "tarih": "2026-11-27 18:00:00",
-            "durum": "bekliyor",
-            "baslik": "📊 ANKET EKLE: Saç bakımında en büyük derdin hangisi? — Kabarma / Kırılma",
-            "permalink": null,
-            "hata": null,
-            "uyari": null,
-            "ust_id": null
         }
     ],
     "notlar": [
