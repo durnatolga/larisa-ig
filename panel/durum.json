@@ -457,18 +457,6 @@
             "grup": null,
             "kaynak_id": "k-20261127-1930-sac-botoksu-reel",
             "tarih": "2026-11-24 10:46:01"
-        },
-        {
-            "id": "5",
-            "github_yol": "gelen/2026-11/v5-20261124_125650_d4f3f3c3.mov",
-            "konu": "Diğer",
-            "notu": "Birleştirilecek video 3/3",
-            "yukleyen": null,
-            "durum": "github",
-            "acil": "1",
-            "grup": "g26112412564328a8",
-            "kaynak_id": null,
-            "tarih": "2026-11-24 12:56:52"
         }
     ],
     "konum_id": "560136640515993"
