@@ -92,6 +92,29 @@
       "tarih": "2026-11-27T18:00:00+03:00",
       "medya": "2026-11/s-1127-story.jpg",
       "baslik": "📊 ANKET EKLE: Saç bakımında en büyük derdin hangisi? — Kabarma / Kırılma"
+    },
+    {
+      "kaynak_id": "k-20261125-1000-fox-eyes-kirpik-reel",
+      "tur": "REEL",
+      "tarih": "2026-11-25T10:00:00+03:00",
+      "medya": "2026-11/r-1125-fox-eyes-kirpik.mp4",
+      "kapak": "2026-11/r-1125-fox-eyes-kirpik-kapak.jpg",
+      "baslik": "Reels: Fox Eyes kirpik adım adım (video 6-9)",
+      "metin": "Fox Eyes bakışın sırrı tek bir adımda değil, hepsinde 🦊✨\n\nModeli birlikte seçiyoruz, doğru aletler ve kaliteli malzemeyle çalışıyor, her göze özel haritalama yapıyoruz.\nRus ekolüyle, adım adım; sonuç sana özel.\n\n📞 Randevu: 0545 151 71 79\n🌐 larisabeautyclub.com\n📍 Yalı Mah. 6523 Sk. No:32/B K:2 D:201 (Park Yaşam Ofis) Karşıyaka / İzmir\n\n#mavişehir #karşıyaka #izmir #izmirgüzellik #larisabeauty #foxeyes #ipekkirpik #kirpikuzantma #izmirkirpik #ruskirpik",
+      "onay_bekle": true,
+      "anket": [
+        "Fox Eyes 🦊",
+        "Doğal kirpik 🌿"
+      ]
+    },
+    {
+      "kaynak_id": "k-20261125-1005-fox-eyes-kirpik-reel-story",
+      "tur": "STORY",
+      "tarih": "2026-11-25T10:05:00+03:00",
+      "medya": "2026-11/s-1125-fox-eyes-reel-story.jpg",
+      "baslik": "Story: Fox Eyes Reels kopyası",
+      "ust": "k-20261125-1000-fox-eyes-kirpik-reel",
+      "onay_bekle": true
     }
   ],
   "not_yanitlari": [],
@@ -109,6 +132,22 @@
     {
       "video_id": 2,
       "kaynak_id": "k-20261127-1930-sac-botoksu-reel"
+    },
+    {
+      "video_id": 6,
+      "kaynak_id": "k-20261125-1000-fox-eyes-kirpik-reel"
+    },
+    {
+      "video_id": 7,
+      "kaynak_id": "k-20261125-1000-fox-eyes-kirpik-reel"
+    },
+    {
+      "video_id": 8,
+      "kaynak_id": "k-20261125-1000-fox-eyes-kirpik-reel"
+    },
+    {
+      "video_id": 9,
+      "kaynak_id": "k-20261125-1000-fox-eyes-kirpik-reel"
     }
   ]
 }

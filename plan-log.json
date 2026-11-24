@@ -371,5 +371,26 @@
   "panel": "sizvebiz (kuyruk.json)",
   "ai": false,
   "image": "2026-11/s-1127-story.jpg"
+ },
+ {
+  "date": "2026-11-25T10:00:00+03:00",
+  "type": "REEL",
+  "theme": "Fox Eyes kirpik adım adım (model, aletler, malzeme, haritalama)",
+  "kaynak_id": "k-20261125-1000-fox-eyes-kirpik-reel",
+  "panel": "sizvebiz (kuyruk.json)",
+  "ai": false,
+  "media": "2026-11/r-1125-fox-eyes-kirpik.mp4",
+  "source_video": "panel video #6-#9 (grup gmwux08aqfl2c); müzik: yerelde üretilmiş özgün piyano (Higgsfield sonucu indirilemedi)",
+  "onay_bekle": true
+ },
+ {
+  "date": "2026-11-25T10:05:00+03:00",
+  "type": "STORY",
+  "theme": "Fox Eyes Reels story kopyası",
+  "kaynak_id": "k-20261125-1005-fox-eyes-kirpik-reel-story",
+  "panel": "sizvebiz (kuyruk.json)",
+  "ai": false,
+  "image": "2026-11/s-1125-fox-eyes-reel-story.jpg",
+  "parent": "k-20261125-1000-fox-eyes-kirpik-reel"
  }
 ]
