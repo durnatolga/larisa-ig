@@ -395,30 +395,6 @@
             "hata": null,
             "uyari": null,
             "ust_id": null
-        },
-        {
-            "id": "54",
-            "kaynak_id": "k-20261127-1930-sac-botoksu-reel",
-            "tur": "REEL",
-            "tarih": "2026-11-27 19:30:00",
-            "durum": "bekliyor",
-            "baslik": "Saç botoksu önce/sonra (salon videosu, sonuçla açılan kurgu)",
-            "permalink": null,
-            "hata": null,
-            "uyari": null,
-            "ust_id": null
-        },
-        {
-            "id": "55",
-            "kaynak_id": "k-20261127-1935-sac-botoksu-reel-story",
-            "tur": "STORY",
-            "tarih": "2026-11-27 19:35:00",
-            "durum": "bekliyor",
-            "baslik": "Saç botoksu önce/sonra (reels story)",
-            "permalink": null,
-            "hata": null,
-            "uyari": null,
-            "ust_id": "54"
         }
     ],
     "notlar": [
@@ -465,7 +441,7 @@
             "notu": "Birleştirilecek video 2/3",
             "yukleyen": null,
             "durum": "github",
-            "acil": "0",
+            "acil": "1",
             "grup": "g26112412564328a8",
             "kaynak_id": null,
             "tarih": "2026-11-24 12:56:50"
@@ -477,7 +453,7 @@
             "notu": "Birleştirilecek video 3/3",
             "yukleyen": null,
             "durum": "github",
-            "acil": "0",
+            "acil": "1",
             "grup": "g26112412564328a8",
             "kaynak_id": null,
             "tarih": "2026-11-24 12:56:52"
