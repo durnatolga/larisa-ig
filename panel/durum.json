@@ -529,6 +529,30 @@
             "grup": "gmwux08aqfl2c",
             "kaynak_id": "k-20261125-1000-fox-eyes-kirpik-reel",
             "tarih": "2026-11-24 19:36:10"
+        },
+        {
+            "id": "11",
+            "github_yol": "https://github.com/durnatolga/larisa-ig/releases/download/gelen/v11-20261124_225516_af98f040.mov",
+            "konu": "4 – Uygulama yakın çekim",
+            "notu": null,
+            "yukleyen": null,
+            "durum": "github",
+            "acil": "1",
+            "grup": null,
+            "kaynak_id": null,
+            "tarih": "2026-11-24 22:55:19"
+        },
+        {
+            "id": "12",
+            "github_yol": "https://github.com/durnatolga/larisa-ig/releases/download/gelen/v12-20261124_225609_b248ab08.mov",
+            "konu": "Saç işlemi",
+            "notu": null,
+            "yukleyen": null,
+            "durum": "github",
+            "acil": "1",
+            "grup": null,
+            "kaynak_id": null,
+            "tarih": "2026-11-24 22:56:12"
         }
     ],
     "konum_id": "560136640515993"
