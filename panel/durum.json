@@ -289,18 +289,6 @@
             "ust_id": null
         },
         {
-            "id": "60",
-            "kaynak_id": "k-20261124-1800-soru-kirpik-derdi",
-            "tur": "STORY",
-            "tarih": "2026-11-24 18:00:00",
-            "durum": "bekliyor",
-            "baslik": "❓ SORU KUTUSU EKLE: Kirpiğinle ilgili en büyük derdin ne? (Larisa Hanım cevaplar)",
-            "permalink": null,
-            "hata": null,
-            "uyari": null,
-            "ust_id": null
-        },
-        {
             "id": "39",
             "kaynak_id": "k-20261125-1000-kalici-oje",
             "tur": "POST",
@@ -325,18 +313,6 @@
             "ust_id": "39"
         },
         {
-            "id": "58",
-            "kaynak_id": "k-20261125-1800-canli-kirpik",
-            "tur": "STORY",
-            "tarih": "2026-11-25 18:00:00",
-            "durum": "bekliyor",
-            "baslik": "Canlı kirpik deneme: Hangi kirpik sana yakışır?",
-            "permalink": null,
-            "hata": null,
-            "uyari": null,
-            "ust_id": null
-        },
-        {
             "id": "42",
             "kaynak_id": "k-20261126-1000-cilt-mitleri",
             "tur": "POST",
@@ -359,18 +335,6 @@
             "hata": null,
             "uyari": null,
             "ust_id": "42"
-        },
-        {
-            "id": "61",
-            "kaynak_id": "k-20261126-1300-etiketle",
-            "tur": "STORY",
-            "tarih": "2026-11-26 13:00:00",
-            "durum": "bekliyor",
-            "baslik": "Bizi hikâyende etiketle hatırlatması",
-            "permalink": null,
-            "hata": null,
-            "uyari": null,
-            "ust_id": null
         },
         {
             "id": "59",
