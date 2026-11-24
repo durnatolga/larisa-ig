@@ -241,30 +241,6 @@
             "ust_id": null
         },
         {
-            "id": "10",
-            "kaynak_id": "m427987399",
-            "tur": "POST",
-            "tarih": "2026-11-21 13:00:00",
-            "durum": "hata",
-            "baslik": "İpek kirpik sık sorulan sorular",
-            "permalink": null,
-            "hata": "Meta hatası (10): (#10) Application does not have permission for this action",
-            "uyari": null,
-            "ust_id": null
-        },
-        {
-            "id": "21",
-            "kaynak_id": "m427987424",
-            "tur": "STORY",
-            "tarih": "2026-11-21 13:05:00",
-            "durum": "hata",
-            "baslik": "İpek kirpik sık sorulan sorular (story)",
-            "permalink": null,
-            "hata": "Metricool sınırı nedeniyle yayınlanmadı. \"Yeniden planla\" ile tekrar planlayabilirsin.",
-            "uyari": null,
-            "ust_id": "10"
-        },
-        {
             "id": "14",
             "kaynak_id": "m433913598",
             "tur": "STORY",
@@ -313,19 +289,7 @@
             "ust_id": null
         },
         {
-            "id": "38",
-            "kaynak_id": null,
-            "tur": "REEL",
-            "tarih": "2026-11-24 17:30:00",
-            "durum": "bekliyor",
-            "baslik": "Saç botoksu öncesi-sonrası",
-            "permalink": null,
-            "hata": null,
-            "uyari": null,
-            "ust_id": null
-        },
-        {
-            "id": "45",
+            "id": "52",
             "kaynak_id": "k-20261124-1800-soru-kirpik-derdi",
             "tur": "STORY",
             "tarih": "2026-11-24 18:00:00",
@@ -361,7 +325,7 @@
             "ust_id": "39"
         },
         {
-            "id": "41",
+            "id": "50",
             "kaynak_id": "k-20261125-1800-canli-kirpik",
             "tur": "STORY",
             "tarih": "2026-11-25 18:00:00",
@@ -397,7 +361,7 @@
             "ust_id": "42"
         },
         {
-            "id": "46",
+            "id": "53",
             "kaynak_id": "k-20261126-1300-etiketle",
             "tur": "STORY",
             "tarih": "2026-11-26 13:00:00",
@@ -409,7 +373,7 @@
             "ust_id": null
         },
         {
-            "id": "44",
+            "id": "51",
             "kaynak_id": "k-20261126-1800-anket-cilt",
             "tur": "STORY",
             "tarih": "2026-11-26 18:00:00",
@@ -421,7 +385,7 @@
             "ust_id": null
         },
         {
-            "id": "49",
+            "id": "56",
             "kaynak_id": "k-20261127-1800-anket-sac-derdi",
             "tur": "STORY",
             "tarih": "2026-11-27 18:00:00",
@@ -433,7 +397,7 @@
             "ust_id": null
         },
         {
-            "id": "47",
+            "id": "54",
             "kaynak_id": "k-20261127-1930-sac-botoksu-reel",
             "tur": "REEL",
             "tarih": "2026-11-27 19:30:00",
@@ -445,7 +409,7 @@
             "ust_id": null
         },
         {
-            "id": "48",
+            "id": "55",
             "kaynak_id": "k-20261127-1935-sac-botoksu-reel-story",
             "tur": "STORY",
             "tarih": "2026-11-27 19:35:00",
@@ -454,7 +418,7 @@
             "permalink": null,
             "hata": null,
             "uyari": null,
-            "ust_id": "47"
+            "ust_id": "54"
         }
     ],
     "notlar": [
