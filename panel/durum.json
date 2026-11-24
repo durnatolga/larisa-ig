@@ -289,7 +289,7 @@
             "ust_id": null
         },
         {
-            "id": "64",
+            "id": "71",
             "kaynak_id": "k-20261124-1800-soru-kirpik-derdi",
             "tur": "STORY",
             "tarih": "2026-11-24 18:00:00",
@@ -325,7 +325,7 @@
             "ust_id": "39"
         },
         {
-            "id": "62",
+            "id": "69",
             "kaynak_id": "k-20261125-1800-canli-kirpik",
             "tur": "STORY",
             "tarih": "2026-11-25 18:00:00",
@@ -361,7 +361,7 @@
             "ust_id": "42"
         },
         {
-            "id": "65",
+            "id": "72",
             "kaynak_id": "k-20261126-1300-etiketle",
             "tur": "STORY",
             "tarih": "2026-11-26 13:00:00",
@@ -373,7 +373,7 @@
             "ust_id": null
         },
         {
-            "id": "63",
+            "id": "70",
             "kaynak_id": "k-20261126-1800-anket-cilt",
             "tur": "STORY",
             "tarih": "2026-11-26 18:00:00",
@@ -385,7 +385,7 @@
             "ust_id": null
         },
         {
-            "id": "68",
+            "id": "75",
             "kaynak_id": "k-20261127-1800-anket-sac-derdi",
             "tur": "STORY",
             "tarih": "2026-11-27 18:00:00",
@@ -397,7 +397,7 @@
             "ust_id": null
         },
         {
-            "id": "66",
+            "id": "73",
             "kaynak_id": "k-20261127-1930-sac-botoksu-reel",
             "tur": "REEL",
             "tarih": "2026-11-27 19:30:00",
@@ -409,7 +409,7 @@
             "ust_id": null
         },
         {
-            "id": "67",
+            "id": "74",
             "kaynak_id": "k-20261127-1935-sac-botoksu-reel-story",
             "tur": "STORY",
             "tarih": "2026-11-27 19:35:00",
@@ -418,7 +418,7 @@
             "permalink": null,
             "hata": null,
             "uyari": null,
-            "ust_id": "66"
+            "ust_id": "73"
         }
     ],
     "notlar": [
