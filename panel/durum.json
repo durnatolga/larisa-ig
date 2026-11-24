@@ -313,6 +313,30 @@
             "ust_id": null
         },
         {
+            "id": "83",
+            "kaynak_id": "k-20261125-1000-fox-eyes-kirpik-reel",
+            "tur": "REEL",
+            "tarih": "2026-11-25 10:00:00",
+            "durum": "onay",
+            "baslik": "Reels: Fox Eyes kirpik adım adım (video 6-9)",
+            "permalink": null,
+            "hata": null,
+            "uyari": null,
+            "ust_id": null
+        },
+        {
+            "id": "84",
+            "kaynak_id": "k-20261125-1005-fox-eyes-kirpik-reel-sto",
+            "tur": "STORY",
+            "tarih": "2026-11-25 10:05:00",
+            "durum": "onay",
+            "baslik": "Story: Fox Eyes Reels kopyası",
+            "permalink": null,
+            "hata": null,
+            "uyari": null,
+            "ust_id": null
+        },
+        {
             "id": "40",
             "kaynak_id": "k-20261125-1005-kalici-oje-story",
             "tur": "STORY",
@@ -464,10 +488,10 @@
             "konu": "Diğer",
             "notu": "Birleştirilecek video 1/4",
             "yukleyen": null,
-            "durum": "github",
+            "durum": "kullanildi",
             "acil": "1",
             "grup": "gmwux08aqfl2c",
-            "kaynak_id": null,
+            "kaynak_id": "k-20261125-1000-fox-eyes-kirpik-reel",
             "tarih": "2026-11-24 19:34:51"
         },
         {
@@ -476,10 +500,10 @@
             "konu": "Diğer",
             "notu": "Birleştirilecek video 2/4",
             "yukleyen": null,
-            "durum": "github",
+            "durum": "kullanildi",
             "acil": "1",
             "grup": "gmwux08aqfl2c",
-            "kaynak_id": null,
+            "kaynak_id": "k-20261125-1000-fox-eyes-kirpik-reel",
             "tarih": "2026-11-24 19:35:26"
         },
         {
@@ -488,10 +512,10 @@
             "konu": "Diğer",
             "notu": "Birleştirilecek video 3/4",
             "yukleyen": null,
-            "durum": "github",
+            "durum": "kullanildi",
             "acil": "1",
             "grup": "gmwux08aqfl2c",
-            "kaynak_id": null,
+            "kaynak_id": "k-20261125-1000-fox-eyes-kirpik-reel",
             "tarih": "2026-11-24 19:35:53"
         },
         {
@@ -500,10 +524,10 @@
             "konu": "Diğer",
             "notu": "Birleştirilecek video 4/4",
             "yukleyen": null,
-            "durum": "github",
+            "durum": "kullanildi",
             "acil": "1",
             "grup": "gmwux08aqfl2c",
-            "kaynak_id": null,
+            "kaynak_id": "k-20261125-1000-fox-eyes-kirpik-reel",
             "tarih": "2026-11-24 19:36:10"
         }
     ],
