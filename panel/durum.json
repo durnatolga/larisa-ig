@@ -409,6 +409,27 @@
             "tarih": "2026-11-14 13:44:17"
         }
     ],
-    "videolar": [],
+    "videolar": [
+        {
+            "id": "1",
+            "github_yol": "gelen/2026-11/v1-20261123_230246_2ee0464d.mp4",
+            "konu": "1 – Göz açılışı",
+            "notu": null,
+            "yukleyen": null,
+            "durum": "github",
+            "kaynak_id": null,
+            "tarih": "2026-11-23 23:02:49"
+        },
+        {
+            "id": "2",
+            "github_yol": "gelen/2026-11/v2-20261124_104558_b499904c.mp4",
+            "konu": "1 – Göz açılışı",
+            "notu": null,
+            "yukleyen": null,
+            "durum": "github",
+            "kaynak_id": null,
+            "tarih": "2026-11-24 10:46:01"
+        }
+    ],
     "konum_id": "560136640515993"
 }
