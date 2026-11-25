@@ -143,7 +143,7 @@
       "kaynak_id": "k-20261130-1000-cilt-bakimi-reel",
       "tur": "REEL",
       "tarih": "2026-11-30T10:00:00+03:00",
-      "medya": "2026-11/r-1130-cilt-bakimi.mp4",
+      "medya": "2026-11/r-1130-cilt-bakimi-v2.mp4",
       "kapak": "2026-11/r-1130-cilt-bakimi-kapak.jpg",
       "baslik": "Reels: Cilt bakımı adım adım (video 13-17)",
       "metin": "Bu ışıltının sırrı adım adım uygulanan bakımda ✨\n\nLED maskeden uzman ellerde özel bakıma, rahatlatıcı finale kadar her adım özenle.\nRus uzmanlarımızla cildinize ayırdığınız en keyifli saat 💆‍♀️\nSiz hangi adımı en çok seversiniz? 👇\n\n📞 Randevu: 0545 151 71 79\n🌐 larisabeautyclub.com\n📍 Yalı Mah. 6523 Sk. No:32/B K:2 D:201 (Park Yaşam Ofis) Karşıyaka / İzmir\n\n#mavişehir #karşıyaka #izmir #izmirgüzellik #larisabeauty #ciltbakımı #ledmaske #yüzbakımı #skincare #rusciltbakımı",
@@ -163,7 +163,12 @@
       "onay_bekle": true
     }
   ],
-  "not_yanitlari": [],
+  "not_yanitlari": [
+    {
+      "not_id": 2,
+      "yanit": "Müzik hareketli house ritmiyle (124 BPM) değiştirildi; video aynı, onayınızı bekliyor."
+    }
+  ],
   "bilgi_panelde_elle_planli": [
     "2026-11-23 18:00 STORY Mit mi gerçek mi: İpek kirpikle yüz yıkanmaz",
     "2026-11-23 19:00 REEL Saç kaynağı öncesi/sonrası — Rus uzman (+19:05 story)",
