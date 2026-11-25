@@ -138,6 +138,29 @@
       "baslik": "Story: Saç parlaklık Reels kopyası",
       "ust": "k-20261126-1000-sac-parlaklik-reel",
       "onay_bekle": true
+    },
+    {
+      "kaynak_id": "k-20261130-1000-cilt-bakimi-reel",
+      "tur": "REEL",
+      "tarih": "2026-11-30T10:00:00+03:00",
+      "medya": "2026-11/r-1130-cilt-bakimi.mp4",
+      "kapak": "2026-11/r-1130-cilt-bakimi-kapak.jpg",
+      "baslik": "Reels: Cilt bakımı adım adım (video 13-17)",
+      "metin": "Bu ışıltının sırrı adım adım uygulanan bakımda ✨\n\nLED maskeden uzman ellerde özel bakıma, rahatlatıcı finale kadar her adım özenle.\nRus uzmanlarımızla cildinize ayırdığınız en keyifli saat 💆‍♀️\nSiz hangi adımı en çok seversiniz? 👇\n\n📞 Randevu: 0545 151 71 79\n🌐 larisabeautyclub.com\n📍 Yalı Mah. 6523 Sk. No:32/B K:2 D:201 (Park Yaşam Ofis) Karşıyaka / İzmir\n\n#mavişehir #karşıyaka #izmir #izmirgüzellik #larisabeauty #ciltbakımı #ledmaske #yüzbakımı #skincare #rusciltbakımı",
+      "onay_bekle": true,
+      "anket": [
+        "LED maske 💡",
+        "Yüz masajı 💆‍♀️"
+      ]
+    },
+    {
+      "kaynak_id": "k-20261130-1005-cilt-bakimi-reel-story",
+      "tur": "STORY",
+      "tarih": "2026-11-30T10:05:00+03:00",
+      "medya": "2026-11/s-1130-cilt-bakimi-reel-story.jpg",
+      "baslik": "Story: Cilt bakımı Reels kopyası",
+      "ust": "k-20261130-1000-cilt-bakimi-reel",
+      "onay_bekle": true
     }
   ],
   "not_yanitlari": [],
@@ -179,6 +202,26 @@
     {
       "video_id": 11,
       "kaynak_id": "k-20261127-1930-sac-botoksu-reel"
+    },
+    {
+      "video_id": 13,
+      "kaynak_id": "k-20261130-1000-cilt-bakimi-reel"
+    },
+    {
+      "video_id": 14,
+      "kaynak_id": "k-20261130-1000-cilt-bakimi-reel"
+    },
+    {
+      "video_id": 15,
+      "kaynak_id": "k-20261130-1000-cilt-bakimi-reel"
+    },
+    {
+      "video_id": 16,
+      "kaynak_id": "k-20261130-1000-cilt-bakimi-reel"
+    },
+    {
+      "video_id": 17,
+      "kaynak_id": "k-20261130-1000-cilt-bakimi-reel"
     }
   ]
 }
