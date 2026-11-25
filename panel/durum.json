@@ -467,6 +467,30 @@
             "hata": null,
             "uyari": null,
             "ust_id": "80"
+        },
+        {
+            "id": "87",
+            "kaynak_id": "k-20261130-1000-cilt-bakimi-reel",
+            "tur": "REEL",
+            "tarih": "2026-11-30 10:00:00",
+            "durum": "onay",
+            "baslik": "Reels: Cilt bakımı adım adım (video 13-17)",
+            "permalink": null,
+            "hata": null,
+            "uyari": null,
+            "ust_id": null
+        },
+        {
+            "id": "88",
+            "kaynak_id": "k-20261130-1005-cilt-bakimi-reel-story",
+            "tur": "STORY",
+            "tarih": "2026-11-30 10:05:00",
+            "durum": "onay",
+            "baslik": "Story: Cilt bakımı Reels kopyası",
+            "permalink": null,
+            "hata": null,
+            "uyari": null,
+            "ust_id": "87"
         }
     ],
     "notlar": [
@@ -584,10 +608,10 @@
             "konu": "Cilt bakımı",
             "notu": "Birleştirilecek video 1/5",
             "yukleyen": null,
-            "durum": "github",
+            "durum": "kullanildi",
             "acil": "1",
             "grup": "gmwv6z2p1ukel",
-            "kaynak_id": null,
+            "kaynak_id": "k-20261130-1000-cilt-bakimi-reel",
             "tarih": "2026-11-25 00:14:34"
         },
         {
@@ -596,10 +620,10 @@
             "konu": "Cilt bakımı",
             "notu": "Birleştirilecek video 2/5",
             "yukleyen": null,
-            "durum": "github",
+            "durum": "kullanildi",
             "acil": "1",
             "grup": "gmwv6z2p1ukel",
-            "kaynak_id": null,
+            "kaynak_id": "k-20261130-1000-cilt-bakimi-reel",
             "tarih": "2026-11-25 00:14:53"
         },
         {
@@ -608,10 +632,10 @@
             "konu": "Cilt bakımı",
             "notu": "Birleştirilecek video 3/5",
             "yukleyen": null,
-            "durum": "github",
+            "durum": "kullanildi",
             "acil": "1",
             "grup": "gmwv6z2p1ukel",
-            "kaynak_id": null,
+            "kaynak_id": "k-20261130-1000-cilt-bakimi-reel",
             "tarih": "2026-11-25 00:15:37"
         },
         {
@@ -620,10 +644,10 @@
             "konu": "Cilt bakımı",
             "notu": "Birleştirilecek video 4/5",
             "yukleyen": null,
-            "durum": "github",
+            "durum": "kullanildi",
             "acil": "1",
             "grup": "gmwv6z2p1ukel",
-            "kaynak_id": null,
+            "kaynak_id": "k-20261130-1000-cilt-bakimi-reel",
             "tarih": "2026-11-25 00:15:56"
         },
         {
@@ -632,10 +656,10 @@
             "konu": "Cilt bakımı",
             "notu": "Birleştirilecek video 5/5",
             "yukleyen": null,
-            "durum": "github",
+            "durum": "kullanildi",
             "acil": "1",
             "grup": "gmwv6z2p1ukel",
-            "kaynak_id": null,
+            "kaynak_id": "k-20261130-1000-cilt-bakimi-reel",
             "tarih": "2026-11-25 00:16:13"
         }
     ],
