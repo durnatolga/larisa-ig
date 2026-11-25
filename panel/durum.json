@@ -503,6 +503,16 @@
             "durum": "yapildi",
             "yanit": "Saat bugün 14:00 olarak değiştirildi.",
             "tarih": "2026-11-14 13:44:17"
+        },
+        {
+            "id": "2",
+            "paylasim_id": "87",
+            "kaynak_id": "k-20261130-1000-cilt-bakimi-reel",
+            "metin": "Hareketli bir müzik koyalım hause gibi",
+            "yazar": "Salon",
+            "durum": "yeni",
+            "yanit": null,
+            "tarih": "2026-11-25 09:55:06"
         }
     ],
     "videolar": [
