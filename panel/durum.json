@@ -671,6 +671,54 @@
             "grup": "gmwv6z2p1ukel",
             "kaynak_id": "k-20261130-1000-cilt-bakimi-reel",
             "tarih": "2026-11-25 00:16:13"
+        },
+        {
+            "id": "18",
+            "github_yol": "https://github.com/durnatolga/larisa-ig/releases/download/gelen/v18-20261125_121508_8a55bf7f.mov",
+            "konu": "Saç işlemi",
+            "notu": "Birleştirilecek video 1/9",
+            "yukleyen": null,
+            "durum": "github",
+            "acil": "0",
+            "grup": "gmwvwqbpir25m",
+            "kaynak_id": null,
+            "tarih": "2026-11-25 12:15:13"
+        },
+        {
+            "id": "19",
+            "github_yol": "https://github.com/durnatolga/larisa-ig/releases/download/gelen/v19-20261125_121531_01fb7a1a.mov",
+            "konu": "Saç işlemi",
+            "notu": "Birleştirilecek video 2/9",
+            "yukleyen": null,
+            "durum": "github",
+            "acil": "0",
+            "grup": "gmwvwqbpir25m",
+            "kaynak_id": null,
+            "tarih": "2026-11-25 12:15:32"
+        },
+        {
+            "id": "20",
+            "github_yol": "https://github.com/durnatolga/larisa-ig/releases/download/gelen/v20-20261125_121555_4d0fd30f.mov",
+            "konu": "Saç işlemi",
+            "notu": "Birleştirilecek video 3/9",
+            "yukleyen": null,
+            "durum": "github",
+            "acil": "0",
+            "grup": "gmwvwqbpir25m",
+            "kaynak_id": null,
+            "tarih": "2026-11-25 12:15:57"
+        },
+        {
+            "id": "21",
+            "github_yol": "https://github.com/durnatolga/larisa-ig/releases/download/gelen/v21-20261125_121616_b926025b.mov",
+            "konu": "Saç işlemi",
+            "notu": "Birleştirilecek video 4/9",
+            "yukleyen": null,
+            "durum": "github",
+            "acil": "0",
+            "grup": "gmwvwqbpir25m",
+            "kaynak_id": null,
+            "tarih": "2026-11-25 12:16:17"
         }
     ],
     "konum_id": "560136640515993"
